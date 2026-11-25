@@ -141,31 +141,6 @@ Proyecto de Machine Learning enfocado en el análisis de datos y la predicción 
 
 ---
 
-## 🐍 Actividad de contribuciones
-
-<div align="center">
-
-<img src="https://github.com/deiviss2006/deiviss2006/blob/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub" />
-
-</div>
-
----
-
-## 🎯 Mi camino como desarrollador
-
-```text
-Aprender        ████████████████████  Siempre
-Construir       ████████████████████  Siempre
-Experimentar    ████████████████████  Siempre
-Mejorar        ████████████████████  Siempre
-```
-
-Creo que cada proyecto, cada error y cada desafío es una oportunidad para crecer.
-
-No se trata solamente de escribir código, sino de comprender los problemas, encontrar soluciones y construir cosas que realmente funcionen.
-
----
-
 ## 🤝 Conectemos
 
 <div align="center">
