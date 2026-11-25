@@ -170,15 +170,15 @@ No se trata solamente de escribir código, sino de comprender los problemas, enc
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/deiviss2006">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/deivis-cedeño-26a9a5353/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:deivissamuel2017@gmail.com">
 <img src="https://img.shields.io/badge/Correo-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
